@@ -22,6 +22,9 @@ return {
         indent_marker = "│",
         last_indent_marker = "└",
         highlight = "NeoTreeIndentMarker",
+      },
+      icon = {
+        highlight = "NeoTreeFileIcon"
       }
     },
     filesystem = {
